@@ -1,0 +1,17 @@
+[network]
+name = "testnet"
+node_rpc_address = "https://stacks-node-api.testnet.stacks.co"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "upon absurd stay unusual key input liar balcony identify label odor edit right sound champion defy bargain cannon space sugar unit country olive medal"
+balance = 100_000_000_000_000
+# Address: ST1SEKZVMKWB347X172WVCP32DBRFMXRV81XNX0W9
+
+[accounts.wallet_1]
+mnemonic = "upon absurd stay unusual key input liar balcony identify label odor edit right sound champion defy bargain cannon space sugar unit country olive medal"
+balance = 100_000_000_000_000
+
+[accounts.wallet_2]
+mnemonic = "upon absurd stay unusual key input liar balcony identify label odor edit right sound champion defy bargain cannon space sugar unit country olive medal"
+balance = 100_000_000_000_000
